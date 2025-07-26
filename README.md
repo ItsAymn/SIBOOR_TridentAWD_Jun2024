@@ -6,7 +6,14 @@
 <sub>'stock' since the SIBOOR kit is and already modified Voron Design Trident<sub>
 
 Everything in this repo was made possible due to the knowledge provided by:
-- https://github.com/Deepfriedchril/Siboor_Trident_AWD_June_2024 (add what was used/taken)
+- https://github.com/Deepfriedchril/Siboor_Trident_AWD_June_2024
+  - Repo template
+
+
 - https://github.com/jeffalanmcclain/3DPrinter (add what was used/taken)
+
+  
 - https://github.com/marci-makes/trident (add what was used/taken)
+
+  
 - (more to come)

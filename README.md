@@ -1,6 +1,9 @@
-# Ayman's Siboor Voron Trident 300mm AWD (June 2024 rev.)
+# Ayman's Siboor Voron Tridents 300mm AWD (June 2024 rev.)
 
-Main branch contains
+**Main** branch holds nothing useful. <br>
+**Printus_Maximus** branch holds everything related to the kit as 'stock' <br>
+**Printer_The_2nd** branch holds everything related to all modifications done to a second 'stock' kit. <br>
+<sub>'stock' since the SIBOOR kit is and already modified Voron Design Trident<sub>
 
 Everything in this repo was made possible due to the knowledge provided by:
 - https://github.com/Deepfriedchril/Siboor_Trident_AWD_June_2024 (add what was used/taken)

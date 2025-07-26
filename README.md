@@ -3,8 +3,7 @@
 **Main** branch holds nothing useful. <br>
 **Printus_Maximus** branch holds everything related to the kit as 'stock' <br>
 **Printer_The_2nd** branch holds everything related to all modifications done to a second 'stock' kit. <br>
-<sub>'stock' since the SIBOOR kit is and already modified Voron Design Trident<sub><br>
-<sub>Branches are independant of each other so ignore pushes alert<sub>
+<sub>'stock' since the SIBOOR kit is and already modified Voron Design Trident <br> Branches are independant of each other so ignore pushes alert<sub>
 
 Everything in this repo was made possible due to the knowledge provided by:
 - https://github.com/Deepfriedchril/Siboor_Trident_AWD_June_2024
